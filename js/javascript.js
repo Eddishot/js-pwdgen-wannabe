@@ -9,4 +9,4 @@ console.log("check")
 
 const colorePreferito = prompt("Qual'è il tuo colore preferito?");
 
-alert(`${nomeUtente}${cognomeUtente}${colorePreferito}21.`);
+alert(`${nomeUtente}${cognomeUtente}${colorePreferito}21`);
